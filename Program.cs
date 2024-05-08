@@ -4,7 +4,7 @@
 // При решении не рекомендуется пользоваться коллекциями, лучше обойтись исключительно массивами.
 
 
-﻿string[] array = new string[5] {"hello","500", "yes", "Vesta", "8;|"};
+string[] array = new string[5] {"hello","500", "yes", "Vesta", "8;|"};
 string[] newArray = new string[array.Length];
 void ArrayTwo(string[] array, string[] newArray)
 {
